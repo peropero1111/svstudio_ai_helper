@@ -1,5 +1,5 @@
 # Synthesizer_V_Gemini_helper
-Synthesizer V 사용자의 보컬 프로그래밍 및 작곡 프로세스를 지원하기 위해 개발된 Gemini AI 기반 보조 도구입니다.
+Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기 위해 개발된 Gemini AI 기반 보조 도구입니다.
 
 ###  주요 기능 
 * **신스븨 보이스 추천 :** gemini api를 활용하여 곡의 분위기에 맞는 캐릭터를 추천하고 그 이유를 말해 줍니다.
