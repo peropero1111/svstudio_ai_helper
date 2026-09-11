@@ -1,4 +1,4 @@
-# Synthesizer_V_Gemini_helper
+# svstudio_ai_helper
 Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기 위해 개발된 Gemini AI 기반 보조 도구입니다.
 
 ###  주요 기능 
@@ -102,3 +102,39 @@ Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기
 &nbsp;&nbsp;&nbsp;&nbsp;마찬가지로 위의 탭에서 <code>한국어 입력하면 영어발음 출력</code>을 누르신 후에 한국어 단어/문장을 입력하시면 로마자 표기법에 맞게변환된 말이 나옵니다.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/peropero1111/mp3_synthesizer_V_voice_matcher/blob/main/img/2026-08-05%20162406.png?raw=true" width="450" height="450"/>  
+
+---
+
+## 라이선스
+
+이 프로젝트는 MIT License에 따라 배포됩니다.
+
+자세한 내용은 [`LICENSE`](LICENSE) 파일을 참고하십시오.
+
+이 프로젝트에서 사용하는 제3자 소프트웨어 및 서비스에는 각각의
+별도 라이선스와 이용약관이 적용됩니다.
+
+자세한 내용은 다음 파일을 참고하십시오.
+
+* [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt)
+* [`LICENSES/`](LICENSES/)
+* [`LICENSES/README.md`](LICENSES/README.md)
+
+## 면책 및 비공식 프로젝트 안내
+
+`svstudio_ai_helper`는 비공식 서드파티 프로젝트입니다.
+
+이 프로젝트는 Dreamtonics Co., Ltd. 또는 Google LLC와 제휴 관계에
+있지 않으며, 두 회사로부터 공식적인 승인, 후원 또는 보증을 받은
+프로젝트가 아닙니다.
+
+Synthesizer V, Synthesizer V Studio, Google, Gemini, 관련 제품명,
+보이스 데이터베이스명, 캐릭터명 및 상표는 각각의 권리자에게
+귀속됩니다.
+
+이 프로젝트의 일부 기능은 Google Gemini API를 사용합니다.
+오디오 분석 기능을 사용할 경우 사용자가 제공한 오디오 데이터가
+처리를 위해 Google의 서비스로 전송될 수 있습니다.
+
+사용자는 이 프로그램을 통해 제출하거나 전송하는 모든 콘텐츠에 대해
+필요한 권리와 허가를 보유하고 있는지 확인할 책임이 있습니다.
