@@ -116,7 +116,7 @@ Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기
 
 자세한 내용은 다음 파일을 참고하십시오.
 
-* [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt)
+* [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md)
 * [`LICENSES/`](LICENSES/)
 * [`LICENSES/README.md`](LICENSES/README.md)
 
