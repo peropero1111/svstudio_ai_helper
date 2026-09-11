@@ -112,7 +112,7 @@ and/or its respective rights holders.
 affiliated with, sponsored by, approved by, or endorsed by Dreamtonics
 Co., Ltd.
 
-See `THIRD_PARTY_NOTICES.txt` for additional information.
+See `THIRD_PARTY_NOTICES.md` for additional information.
 
 ---
 
