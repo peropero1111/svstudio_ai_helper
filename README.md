@@ -8,11 +8,16 @@ Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기
 </br>
 
 ### 목차
-1. [python 사용법](#python-사용법)
-2. [exe & python 공통 사용법](#exe--python-공통-사용법)
-3. [기능 소개 1](#1-신스븨-보이스-추천)
-4. [기능 소개2](#2-영어-입력시-신스븨-노트-발음-출력)
-5. [기능소개3](#3-한국어에-대응하는-영어-발음-출력)
+1. [다운로드](#다운로드)
+2. [python 사용법](#python-사용법)
+3. [exe & python 공통 사용법](#exe--python-공통-사용법)
+4. [기능 소개 1](#1-신스븨-보이스-추천)
+5. [기능 소개2](#2-영어-입력시-신스븨-노트-발음-출력)
+6. [기능소개3](#3-한국어에-대응하는-영어-발음-출력)
+
+- - -
+### 다운로드
+&nbsp;&nbsp;[release](https://github.com/peropero1111/svstudio_ai_helper/releases/tag/v1.1.0) 에서 py 및 exe 파일을 내려받을 수 있습니다.
 
 
 - - -
@@ -36,9 +41,6 @@ Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기
 
 - - -
 ### exe & python 공통 사용법
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;0) [exe 파일](https://drive.google.com/drive/folders/1nb9UgU_VA1voSfAzWjLTpJLt74XGa4IJ?usp=sharing)을 사용하시는 분들 을 위한 파일입니다.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;1)https://aistudio.google.com/api-keys 이 사이트에 들어가셔서 우측상단의 " api 키 만들기 " 를 클릭하여주십시오.
