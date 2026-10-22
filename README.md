@@ -17,7 +17,7 @@ Synthesizer V 사용자의 보컬 작업 및 작곡 프로세스를 지원하기
 
 - - -
 ### 다운로드
-&nbsp;&nbsp;[release](https://github.com/peropero1111/svstudio_ai_helper/releases/tag/v1.1.0) 에서 py 및 exe 파일을 내려받을 수 있습니다.
+&nbsp;&nbsp;[releases](https://github.com/peropero1111/svstudio_ai_helper/releases/tag/v1.1.0) 페이지에서 py 및 exe 파일을 내려받을 수 있습니다.
 
 
 - - -
